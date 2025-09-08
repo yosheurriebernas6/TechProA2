@@ -1,5 +1,6 @@
-public class SEATWORKELEVEN.java {
-    	public static void main(String[] args) {
+public class SEATWORKELEVEN {
+public static void main(String[] args) {
+
                     System.out.println("SEATWORKELEVEN2025");
                             System.out.println();
 
@@ -9,6 +10,6 @@ public class SEATWORKELEVEN.java {
                                                             for (int col = 0; col < myNumbers[row].length; col++) {
                                                                                 System.out.println("myNumbers[" + row + "][" + col + "] = " + myNumbers[row][col]);
                                                             }
-                                            }
-        }
-}
+                                                        }
+                                                } 
+                                      
