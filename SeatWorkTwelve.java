@@ -2,6 +2,7 @@
 
 public class SeatWorkTwelve {
 
+
     // Method to display account balance
     public static void checkBalance(int[] balances, int accountNumber) {
         System.out.println("Your current balance is: " + balances[accountNumber]);
